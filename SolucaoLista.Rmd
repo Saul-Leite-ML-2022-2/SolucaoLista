@@ -1,0 +1,27 @@
+---
+title: "Solução Lista 01"
+author: |
+        | Nome: Fulano de Tal
+        | Ra: XXXXX
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = T,
+                      fig.align='center',
+                      cache=TRUE,
+                      warning=FALSE,
+                      message=FALSE)
+```
+
+## Exercício 01
+
+
+## Exercício 02
+
+
+## Exercício 03
+
+
+## Exercício 04
