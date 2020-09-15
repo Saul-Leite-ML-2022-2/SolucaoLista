@@ -3,6 +3,8 @@ title: "Solução Lista 01"
 author: |
         | Nome: Fulano de Tal
         | Ra: XXXXX
+        | Nome: Fulano de Tal
+        | Ra: XXXXX
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: pdf_document
 ---
