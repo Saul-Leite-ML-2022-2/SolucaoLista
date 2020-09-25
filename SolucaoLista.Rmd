@@ -2,9 +2,10 @@
 title: "Solução Lista 01"
 author: |
         | Nome: Fulano de Tal
-        | Ra: XXXXX
+        | E-mail: fdt@aluno.ufabc.edu.br
         | Nome: Fulano de Tal
-        | Ra: XXXXX
+        | E-mail: fdt@aluno.ufabc.edu.br
+        | (Não é preciso informar os RAs)
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: pdf_document
 ---
@@ -13,6 +14,8 @@ output: pdf_document
 knitr::opts_chunk$set(echo = T,
                       fig.align='center',
                       cache=TRUE,
+                      out.width = "60%",
+                      out.heigth = "60%",
                       warning=FALSE,
                       message=FALSE)
 ```
