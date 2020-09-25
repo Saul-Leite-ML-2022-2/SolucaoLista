@@ -18,6 +18,7 @@ knitr::opts_chunk$set(echo = T,
                       out.heigth = "60%",
                       warning=FALSE,
                       message=FALSE)
+options(width =70)
 ```
 
 ## Exercício 01
